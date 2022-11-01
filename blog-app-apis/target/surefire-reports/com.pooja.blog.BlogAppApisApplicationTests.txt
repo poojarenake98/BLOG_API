@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.pooja.blog.BlogAppApisApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 27.954 s - in com.pooja.blog.BlogAppApisApplicationTests
